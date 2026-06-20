@@ -3,13 +3,13 @@
 End-to-end supply chain & inventory analytics project — from raw data in MySQL to KPI-driven insights in Power BI. Built as part of my Data Analytics Internship at AI Variant.
 
 
-🎯 Project Overview
+🎯 Project Overview :
 
 This project analyzes a multi-table supply chain dataset (customers, stores, sales, and inventory) to uncover insights around stock health, order behavior, and store performance. 
 The workflow covers the full analytics pipeline: data cleaning & querying in MySQL → KPI modeling with DAX → interactive Power BI dashboard.
 
 
-🛠️ Tools & Tech Stack
+🛠️ Tools & Tech Stack :
 
 Category            Tools Used 
 
@@ -20,7 +20,7 @@ Visualization         Power BI (DAX measures)
 Data Modeling         Star Schema (Fact & Dimension tables)
 
 
-🗂️ Repository Structure
+🗂️ Repository Structure :
 
 ├── inventory_management_project.pbix   # Power BI dashboard file
 ├── supply_chain_sql.sql                # SQL queries used for analysis
@@ -28,7 +28,7 @@ Data Modeling         Star Schema (Fact & Dimension tables)
 └── README.md
 
 
-🧮 Dataset
+🧮 Dataset :
 
 The dataset follows a fact–dimension model with the following core tables:
 
@@ -40,7 +40,7 @@ d_store — store details (region, employee count, online ordering capability)
 
 
 
-🔍 Key SQL Analysis
+🔍 Key SQL Analysis :
 
 The supply_chain_sql.sql file covers:
 
@@ -55,7 +55,7 @@ The supply_chain_sql.sql file covers:
 
 
 
-📊 Power BI Dashboard Highlights
+📊 Power BI Dashboard Highlights :
 
 Interactive dashboard built on top of the SQL-modeled data, featuring DAX-driven KPIs such as:
 
@@ -75,7 +75,7 @@ Interactive dashboard built on top of the SQL-modeled data, featuring DAX-driven
 (Open inventory_management_project.pbix in Power BI Desktop to explore interactively.)
 
 
-🚀 Key Insights
+🚀 Key Insights :
 
 
 Identified top revenue-driving products through inventory valuation analysis
@@ -84,7 +84,7 @@ Built a reusable KPI framework connecting raw transactional data to business-rea
 
 
 
-📬 Connect With Me
+📬 Connect With Me :
 
 
 💼 LinkedIn : https://www.linkedin.com/in/warunq01am-ehandhana-71007a2bb/
