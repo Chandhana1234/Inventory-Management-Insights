@@ -13,11 +13,11 @@ The workflow covers the full analytics pipeline: data cleaning & querying in MyS
 
 Category            Tools Used 
 
-Database              :  MySQL
-Querying              :  SQL
-Cloud Data Warehouse  :  Snowflake
-Visualization         :  Power BI (DAX measures)
-Data Modeling         :  Star Schema (Fact & Dimension tables)
+Database              :  MySQL ,
+Querying              :  SQL ,
+Cloud Data Warehouse  :  Snowflake ,
+Visualization         :  Power BI (DAX measures) ,
+Data Modeling         :  Star Schema (Fact & Dimension tables) ,
 
 
 🗂️ Repository Structure :
