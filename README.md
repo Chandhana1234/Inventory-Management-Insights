@@ -17,7 +17,7 @@ Database              :  MySQL,
 Querying              :  SQL,
 Cloud Data Warehouse  :  Snowflake,
 Visualization         :  Power BI (DAX measures),
-Data Modeling         :  Star Schema (Fact & Dimension tables),
+Data Modeling         :  Star Schema (Fact & Dimension tables)
 
 
 🗂️ Repository Structure :
