@@ -13,18 +13,21 @@ The workflow covers the full analytics pipeline: data cleaning & querying in MyS
 
 Category            Tools Used 
 
-Database              MySQL
-Querying              SQL
-Cloud Data Warehouse  Snowflake
-Visualization         Power BI (DAX measures)
-Data Modeling         Star Schema (Fact & Dimension tables)
+Database              :  MySQL
+Querying              :  SQL
+Cloud Data Warehouse  :  Snowflake
+Visualization         :  Power BI (DAX measures)
+Data Modeling         :  Star Schema (Fact & Dimension tables)
 
 
 🗂️ Repository Structure :
 
 ├── inventory_management_project.pbix   # Power BI dashboard file
+
 ├── supply_chain_sql.sql                # SQL queries used for analysis
+
 ├── dataset/                            # Raw source data
+
 └── README.md
 
 
